@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -36,6 +36,7 @@
   "name":"CLT-RUNNER",
   "resources":[
     {"id":{"name":"Observações","path":"notes/Observações/Observações.yy",},},
+    {"id":{"name":"obj_espaco","path":"objects/obj_espaco/obj_espaco.yy",},},
     {"id":{"name":"rm_pg1","path":"rooms/rm_pg1/rm_pg1.yy",},},
     {"id":{"name":"rm_pg2","path":"rooms/rm_pg2/rm_pg2.yy",},},
     {"id":{"name":"rm_pg3","path":"rooms/rm_pg3/rm_pg3.yy",},},
