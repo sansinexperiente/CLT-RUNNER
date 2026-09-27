@@ -37,6 +37,8 @@
   "resources":[
     {"id":{"name":"Observações","path":"notes/Observações/Observações.yy",},},
     {"id":{"name":"obj_espaco","path":"objects/obj_espaco/obj_espaco.yy",},},
+    {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
+    {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"rm_pg1","path":"rooms/rm_pg1/rm_pg1.yy",},},
     {"id":{"name":"rm_pg2","path":"rooms/rm_pg2/rm_pg2.yy",},},
     {"id":{"name":"rm_pg3","path":"rooms/rm_pg3/rm_pg3.yy",},},
@@ -61,6 +63,7 @@
     {"roomId":{"name":"rm_pg2","path":"rooms/rm_pg2/rm_pg2.yy",},},
     {"roomId":{"name":"rm_pg3","path":"rooms/rm_pg3/rm_pg3.yy",},},
     {"roomId":{"name":"rm_pg4","path":"rooms/rm_pg4/rm_pg4.yy",},},
+    {"roomId":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
