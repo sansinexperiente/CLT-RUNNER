@@ -35,7 +35,9 @@
   },
   "name":"CLT-RUNNER",
   "resources":[
+    {"id":{"name":"Observações","path":"notes/Observações/Observações.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_pag1","path":"sprites/spr_pag1/spr_pag1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -1,0 +1,59 @@
+DIA 1 (27/09/26): comecei organizando tudo que consegui observar do jogo e o que achei que podia melhorar.
+
+JOGO: CLT RUNNER
+
+PLATARFORMAS: PC/WEB
+
+GENERO: INFINITE RUNNER
+
+-- TELAS --
+
+ O jogo contem 5 telas no total quatro delas sendo para contar a historia do jogo e a ultima sendo o jogo em si.
+
+-- ELEMENTOS --
+
+ O único elemento notável nas primeiras quatro telas além da historia é o texto abaixo indicando o jogador a apertar espaço para avançar a historia.
+
+ Já na tela de jogo os principais elementos são o personagem principal, comidas que aparecem o decorrer do jogo e inimigos (carteiras de trabalho).
+
+ Mais um elemento notável na tela de jogo é a musica de fundo.
+
+-- FLUXO --
+
+ Tela de historia 1 --> tela de historia 2 --> tela de historia 3 --> tela de historia 4 --> tela de jogo
+
+
+
+-- OBJETIVO --
+
+O objetivo do jogo é simples, apenas colete o máximo de comida que conseguir
+
+
+-- OBSTACULOS --
+
+para impedir que a tarefa seja tão simples, há diversas carteiras de trabalho que servem como inimigos pro jogador
+
+
+-- REGRAS --
+
+é regra que toda vez que o jogador encostar em uma clt ele volta do inicio da run
+
+é regra que toda vez que o jogador coleta uma comida ele pontua (eu acho)
+
+-- GAMEPLAY --
+
+
+por fim a gameplay. ela é bem simples, apenas requerindo que o jogador aperte as teclas para ir para parede da esquerda ou da direita para desviar dos
+obstáculos ou pegar mais comida.
+
+
+
+-- MELHORIAS --
+
+Um menu poderia ser adicionado ao invés do jogo só começar do nada.
+
+Um placar de pontuação seria agradável para dar algum proposito as comidas coletadas no jogo.
+
+o jogo poderia acelerar a medida que o jogador vai coletando mais comidas, afinal creio que o jogo ele é fácil demais em sua versão atual.
+
+Uma tela de game over seria interessante. 
