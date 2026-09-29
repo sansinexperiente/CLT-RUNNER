@@ -36,12 +36,7 @@
   "name":"CLT-RUNNER",
   "resources":[
     {"id":{"name":"Observações","path":"notes/Observações/Observações.yy",},},
-    {"id":{"name":"obj_batata","path":"objects/obj_batata/obj_batata.yy",},},
-    {"id":{"name":"obj_choco","path":"objects/obj_choco/obj_choco.yy",},},
-    {"id":{"name":"obj_clt","path":"objects/obj_clt/obj_clt.yy",},},
-    {"id":{"name":"obj_coxinha","path":"objects/obj_coxinha/obj_coxinha.yy",},},
     {"id":{"name":"obj_espaco","path":"objects/obj_espaco/obj_espaco.yy",},},
-    {"id":{"name":"obj_hamburger","path":"objects/obj_hamburger/obj_hamburger.yy",},},
     {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"rm_pg1","path":"rooms/rm_pg1/rm_pg1.yy",},},
